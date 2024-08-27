@@ -8,14 +8,6 @@
         "category": "Notifications",
         "versions": [
             {
-                "version": "1.0.1.4",
-                "changelog": "",
-                "targetAbi": "10.9.0.0",
-                "sourceUrl": "https://github.com/greendoescode/jellyfin-plugin-lrclib/releases/download/V1.0.1.2/lrclib_1.0.1.4.zip",
-                "checksum": "8fb951620e88567b87b3dcfdac4dec22c04a692007bbc14213d2b476efcc930d ",
-                "timestamp": "2024-08-27T16:17:51Z"
-            },
-            {
                 "version": "1.0.1.2",
                 "changelog": "",
                 "targetAbi": "10.9.0.0",
