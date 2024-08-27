@@ -58,4 +58,4 @@ jobs:
           git pull
           git add ./manifest.json
           git commit -m "Update manifest.json"
-          git push --force origin master
+          git push --force origin automated-lyrics
